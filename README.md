@@ -10,3 +10,20 @@
 
 ```bash
 npm install
+```
+這會自動安裝 express 和 cors 等必要套件。
+
+### 2️⃣ 啟動伺服器
+
+```bash
+node server.js
+```
+啟動後，後端 API 會在 http://localhost:3000 提供服務。
+
+3️⃣ 開啟網頁（前端）
+打開 public/index.html 即可開始使用管理介面。
+
+注意 ⚠️
+若你想讓局域網內其他設備能夠連線觀看，請將前端中 API_BASE 的網址改成你的電腦在局域網中的 IPv4 位址，
+
+找到你正在使用的網路介面（通常是「乙太網路」或「Wi-Fi」），查看「IPv4 位址」，像: http://192.168.x.x。

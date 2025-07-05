@@ -20,7 +20,7 @@ node server.js
 ```
 啟動後，後端 API 會在 http://localhost:3000 提供服務。
 
-3️⃣ 開啟網頁（前端）
+### 3️⃣ 開啟網頁（前端）
 打開 public/index.html 即可開始使用管理介面。
 
 注意 ⚠️

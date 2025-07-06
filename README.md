@@ -13,6 +13,9 @@
 ---
 
 ## 🚀 使用方法
+```bash
+git clone https://github.com/jirong-spec/twelve-court-manager.git
+```
 
 ### 1️⃣ 安裝 Node.js 套件
 
